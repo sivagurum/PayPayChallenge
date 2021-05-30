@@ -1,4 +1,4 @@
-name := "SivaSpark"
+name := "PayPayChallenge"
 
 version := "0.1"
 
